@@ -1,0 +1,45 @@
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+img {
+	width: 300px;
+	border: 3px solid black;
+	padding: 1px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+}
+#logo {
+	width: 75px;
+	margin: auto;
+}
+body {
+	padding-top: 70px;
+}
+nav div li a.active,
+nav div li a:hover 
+{
+	color: #fff;
+	background: #f00;
+}
+section.sec1
+{
+	height:100vh;
+	background: url(wt10.jpg);
+	background-size: cover;
+}
+section.sec2{
+	background-color: yellow;
+}
+p{
+	text-align: center;
+}
+.details{
+	padding-top: 20px;
+	margin-top: 2em;
+}
+.card{
+	background-color: pink;
+}
+.dk{
+	text-align: center;
+}
